@@ -17,7 +17,7 @@ El proyecto es una aplicación RESTful construida con Spring Boot que permite la
 1. **Clonar el repositorio**
 
     ```bash
-    git clone https://github.com/tuusuario/tu-repositorio.git
+    git clone https://github.com/pecovima/asesoftware_prueba.git
     cd tu-repositorio
     ```
 
